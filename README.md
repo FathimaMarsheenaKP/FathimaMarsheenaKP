@@ -18,6 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fathimamarsheenakp&show_icons=true&locale=en&layout=compact" alt="fathimamarsheenakp" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fathimamarsheenakp&show_icons=true&locale=en" alt="fathimamarsheenakp" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fathimamarsheenakp&" alt="fathimamarsheenakp" /></p>
